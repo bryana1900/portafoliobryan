@@ -1,2 +1,4 @@
-# Landing
-Uso de bootstrap
+- HTML
+- CSS
+- JavaScript
+- bootstrap
